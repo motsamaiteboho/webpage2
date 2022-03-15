@@ -73,7 +73,7 @@ table,th,td {
     padding-left:1em;
 }
 caption {
-  text-align: center;
+  font-weight: bold;
 }
 table{
     border-collapse:collapse;
